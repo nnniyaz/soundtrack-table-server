@@ -2,5 +2,6 @@
   - npm init
   - npm run dev
 - REST API
+- ORM: Sequelize
 - Path: URL/api/playlist
 - URL: https://soundtrack-table.herokuapp.com
