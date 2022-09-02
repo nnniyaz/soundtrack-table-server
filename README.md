@@ -1,5 +1,6 @@
-# soundtrack-table-server
-
+- START
+  - npm init
+  - npm run dev
 - REST API
 - Path: URL/api/playlist
 - URL: https://soundtrack-table.herokuapp.com
